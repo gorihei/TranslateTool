@@ -11,3 +11,4 @@
 Googleアカウントを所持している人なら簡単に作成できます。
 
 詳しい使用方法は以下の記事を参照ください。
+https://gorihei.com/originalapplication/1691/
